@@ -1,3 +1,2 @@
-*.mp4
-*.mov
-*.avi
+echo "*.mp4" >> .gitignore
+echo "*.mov" >> .gitignore
